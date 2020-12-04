@@ -1,0 +1,12 @@
+.idea
+.settings
+.project
+backup
+.Rhistory
+.DS_Store
+test%
+.storybook
+.vscode
+public
+stories
+src/__tests__
